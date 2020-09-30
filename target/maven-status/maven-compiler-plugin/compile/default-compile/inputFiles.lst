@@ -1,0 +1,6 @@
+/home/leonid/Документы/odessa_project/spring-rest-api/src/main/java/com/example/easynotes/model/Note.java
+/home/leonid/Документы/odessa_project/spring-rest-api/src/main/java/com/example/easynotes/exception/ResourceNotFoundException.java
+/home/leonid/Документы/odessa_project/spring-rest-api/src/main/java/com/example/easynotes/controller/NoteController.java
+/home/leonid/Документы/odessa_project/spring-rest-api/src/main/java/com/example/easynotes/repository/NoteRepository.java
+/home/leonid/Документы/odessa_project/spring-rest-api/src/main/java/com/example/easynotes/EasyNotesApplication.java
+/home/leonid/Документы/odessa_project/spring-rest-api/src/main/java/com/example/easynotes/controller/IndexController.java
